@@ -1,0 +1,5 @@
+com\raihanefelmaulana\mahasiswa\service\Entity\Mahasiswa.class
+com\raihanefelmaulana\mahasiswa\service\MahasiswaServiceApplication.class
+com\raihanefelmaulana\mahasiswa\service\Service\MahasiswaService.class
+com\raihanefelmaulana\mahasiswa\service\Repository\MahasiswaRepository.class
+com\raihanefelmaulana\mahasiswa\service\Controller\MahasiswaController.class
